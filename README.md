@@ -2,4 +2,4 @@ supergo_study
 =============
 
 SuperGo Project
-Test checkout
+combin modification from Newfolder and study
